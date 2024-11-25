@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "./Components/Static/Header";
-import Hero from "./Components/Pages/hero/hero";
+import Hero from "./Components/Pages/hero/Hero";
 import Aboutme from "./Components/Pages/about/Aboutme";
 
 
