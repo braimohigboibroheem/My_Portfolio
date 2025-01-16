@@ -1,19 +1,24 @@
 import React from "react";
-import Header from "./Components/Static/Header";
+import Navbar from "./Components/Static/Navbar";
 import Hero from "./Components/Pages/hero/Hero";
 import Aboutme from "./Components/Pages/about/Aboutme";
 import Services from "./Components/services/Services";
 import MyWork from "./Components/myWork/MyWork";
+import Contact from "./Components/contact/Contact";
+import Footer from "./Components/Footer/Footer";
 
 
 const App = () => {
   return(
     <div>
-<Header/>
+<Navbar/>
 <Hero/>
 <Aboutme/>
 <Services/>
 <MyWork/>
+<Contact/>
+<Footer/>
+
     </div>
   )
 }

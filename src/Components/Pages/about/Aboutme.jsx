@@ -7,7 +7,7 @@ import Lappypix from '../../../assets/Lappypix.png'
 
 const Aboutme = () => {
   return (
-    <div className='about'>
+    <div id='about' className='about'>
 
         <div className="about-title">
 
@@ -57,8 +57,8 @@ const Aboutme = () => {
 
 
 <div className="about-achievement">
-  <h1>10+</h1>
-  <p>SATISFIED HAPPY CLIENTS</p>
+  <h1>20+</h1>
+  <p>SATISFIED CLIENTS</p>
 </div>
 
 </div>
